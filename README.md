@@ -1,5 +1,8 @@
 ## Website Performance Optimization portfolio project
 
+## Live Version
+[Github page](https://haydenjoncolson.github.io/mobile-portfolio/)
+
 ## HTML Optimization
 - move scripts and inline css to the bottom of html
 - compress images
